@@ -1,6 +1,6 @@
-# Basic Express
+# Express CRUD RESTful APIs
 
-asic Express.js project providing CRUD operations for Dota 2 heroes and items.
+Simple Express.js project providing CRUD operations for Dota 2 heroes and items.
 
 - Express
 - Joi
